@@ -26,7 +26,7 @@ for example for Oxford dictionary:
 and the data will be stored in oxford.jl at *dictionary_crawler/dictionary_crawler/dictionary_crawler/spiders*
 
 ## How is the output?
-The output is a JASON lines file format that each line of it is a python dict with a word and definitions of it.
+The output is a JSON Lines file format that each line of it is a python dict with a word and definitions of it.
 for example the word **hope** in the Websted dictinary is like this:
 ```json
 {"hope":
