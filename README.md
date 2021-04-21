@@ -2,7 +2,7 @@
 Art by:[Altered  Artichoke](https://alteredartichoke.storenvy.com/products/21890729-spooky-spider-dictionary-art-print-no-18)
 
 
-# Dictionary Crawler![](https://img.shields.io/apm/l/vim-mode.svg) 
+# Dictionary Crawler ![](https://img.shields.io/apm/l/vim-mode.svg) 
 This is a python code based on Scrapy package to crawl famous online dictionaries like Oxford, Longman, Cambridge, Webster, and Collins.
 Be aware that this code is published on July 21, 2019, and if those sites will be updated in the future this code may not work properly.
 ## Prerequisites
@@ -27,7 +27,7 @@ and the data will be stored in oxford.jl at *dictionary_crawler/dictionary_crawl
 
 ## How is the output?
 The output is a JSON Lines file format that each line of it is a python dictionary with a word and definitions of it.
-for example, the word **hope** in the Websted dictionary is like this:
+for example, the word **hope** in the Webster dictionary is like this:
 ```json
 {"hope":
     {
