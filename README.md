@@ -1,4 +1,4 @@
-![](https://dpegb9ebondhq.cloudfront.net/product_photos/56926928/0018_original.jpg)
+![](https://st.hzcdn.com/simgs/93e15c6309f22aa9_4-3114/home-design.jpg)
 Art by:[Altered  Artichoke](https://alteredartichoke.storenvy.com/products/21890729-spooky-spider-dictionary-art-print-no-18)
 
 
