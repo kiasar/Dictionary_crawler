@@ -1,6 +1,6 @@
 ![](https://st.hzcdn.com/simgs/93e15c6309f22aa9_4-3114/home-design.jpg)
 
-Art by:[Altered  Artichoke](https://alteredartichoke.storenvy.com/products/21890729-spooky-spider-dictionary-art-print-no-18)
+Art by:[Altered  Artichoke](https://alteredartichoke.com)
 
 
 # Dictionary Crawler ![](https://img.shields.io/apm/l/vim-mode.svg) 
