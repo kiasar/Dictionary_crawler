@@ -1,3 +1,4 @@
+[![Downloads](https://static.pepy.tech/badge/gutenberg-cleaner)](https://pepy.tech/project/gutenberg-cleaner)
 ![](https://st.hzcdn.com/simgs/93e15c6309f22aa9_4-3114/home-design.jpg)
 
 Art by:[Altered  Artichoke](https://alteredartichoke.com)
