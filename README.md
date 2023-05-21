@@ -3,7 +3,7 @@
 Art by:[Altered  Artichoke](https://alteredartichoke.com)
 
 
-# Dictionary Crawler ![](https://img.shields.io/apm/l/vim-mode.svg) 
+# Dictionary Crawler
 This is a python code based on Scrapy package to crawl famous online dictionaries like Oxford, Longman, Cambridge, Webster, and Collins.
 Be aware that this code is published on July 21, 2019, and if those sites will be updated in the future this code may not work properly.
 ## Prerequisites
